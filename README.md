@@ -114,6 +114,19 @@ connecthub/
 │
 └── README.md
 ```
+## Screenshots
+
+### Home Feed
+
+![Home Feed](home-feed.png)
+
+### Profile Page
+
+![Profile Page](profile-page.png)
+
+### Comments Section
+
+![Comments Section](comments-section.png)
 
 ---
 
